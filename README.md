@@ -1,4 +1,4 @@
-# BCT_AI_Salary_Increment_Predictor_for_Employees
+# AI_Salary_Increment_Predictor_for_Employees
 # Salary Increment Predictor
 
 This is a simple Salary Increment Predictor project that uses Linear Regression to predict salary increments based on years of experience. The model is trained on a dataset containing information about employees' years of experience and their corresponding salaries.
